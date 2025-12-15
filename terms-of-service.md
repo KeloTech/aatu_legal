@@ -1,4 +1,7 @@
-Terms of Use – Aatu
+---
+layout: default
+title: Terms of Use – Aatu
+---
 
 Last updated: 15.12.2025
 
