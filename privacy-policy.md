@@ -1,7 +1,4 @@
----
-layout: default
-title: Privacy Policy – Aatu
----
+# Privacy Policy – Aatu
 
 Last updated: 12.15.2025
 
