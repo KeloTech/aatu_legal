@@ -1,4 +1,5 @@
 # Aatu – Support & Legal
+Last updated: 1.6.2026
 
 Welcome to Aatu.  
 Here you can find our official legal documents and support resources:
